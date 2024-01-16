@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c79c36b14a85f95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40bf0443be2308a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a3928ac1b725f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/TS/2. 类型注解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc8082aa80ede13",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7805582a9bd52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d392105c27cf58e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b863c365021e7bbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65a54c34f2d9de7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ce1ab56c586611df",
+    "type": "split",
+    "children": [
+      {
+        "id": "5921c3addd1d012b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eafd1dff30e8a15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interview/TS/2. 类型注解.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32e0b51af3c0b9ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interview/TS/2. 类型注解.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de0185d98f424165",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17a8d0c3930a0a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interview/TS/2. 类型注解.md"
+              }
+            }
+          },
+          {
+            "id": "d38b5c66f315120f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "6a3928ac1b725f51",
+  "lastOpenFiles": [
+    "Interview/TS/2. 类型注解.md",
+    "Interview/TS/1. TS介绍与基本使用.md",
+    "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
+    "TMS Project.md",
+    "Interview/Vue2/7. 说说你对Vue生命周期的理解?.md",
+    "Interview/Vue2/8. 为什么Vue中给对象添加新属性界面不刷新?.md",
+    "Interview/Vue2/9. Vue的权限控制该怎么做？.md",
+    "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
+    "Obsidian技巧.md",
+    "splice & slice.md",
+    "SLWL项目总结.md",
+    "Front-end Study/Mini Program/11. 双token的登录超时处理--无感刷新.md",
+    "Front-end Study/Preparation of projects.md",
+    "Front-end Study/Vue/el-table配合字典实现用key索引转换value.md",
+    "Interview/Vue3 + mini + uniapp/10. 项目中的通用功能.md",
+    "Interview/TS",
+    "Interview/Vue3 + mini + uniapp/6. Pinia.md",
+    "Interview/Vue3 + mini + uniapp/5. 预留.md",
+    "Interview/Vue3 + mini + uniapp/4. v-model 的原理.md",
+    "Interview/Vue3 + mini + uniapp/3. ref 获取原生 dom 与组件实例.md",
+    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的使用与通信方式.md",
+    "Interview/Vue2/100. 很难的原理问题.md",
+    "Interview/Vue2/1. 说说你对vue的理解？.md",
+    "Interview/Vue2/2. 你对SPA的理解？.md",
+    "Interview/Vue2/3. SPA首屏加载慢怎么解决？.md",
+    "Interview/Vue2/4. Vue中的v-show和v-if怎么理解？.md",
+    "Interview/Vue2/6. 为什么组件的data属性是一个函数而不是一个对象？.md",
+    "未命名.canvas",
+    "2. Vue3单文件组件的使用与通信方式.pdf",
+    "图片/Vue3生命周期.png",
+    "图片/Vue3生命周期.png.crdownload",
+    "Interview/Vue3 + mini + uniapp",
+    "Interview/Vue2/未命名",
+    "图片/小程序头像和昵称编辑_副本.jpg",
+    "图片/小程序头像和昵称编辑.jpg",
+    "Pasted image 20231217101930.png",
+    "图片/小程序生命周期.png",
+    "图片",
+    "Front-end Study/Mini Program",
+    "Interview/CSS",
+    "专业术语",
+    "Interview/Vue2",
+    "spa.png",
+    "pictures/spa.png",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}

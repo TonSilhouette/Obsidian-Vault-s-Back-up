@@ -1,0 +1,16 @@
+{
+  "promptDelete": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "spellcheck": false,
+  "foldHeading": false,
+  "foldIndent": false
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "cssTheme": "Things",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "linespace"
+  ],
+  "nativeMenus": true,
+  "theme": "obsidian"
+}
