@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sum up of projects/SLWL.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sum up of projects/SLWL.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sum up of projects/SLWL.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sum up of projects/SLWL.md"
+                "file": "Conlusion of projects/Enjoy Plus MP.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,21 +162,23 @@
   },
   "active": "6a3928ac1b725f51",
   "lastOpenFiles": [
-    "Sum up of projects",
+    "Conlusion of projects/TMS Project.md",
+    "Front-end Study/Terms.md",
+    "Front-end Study/Preparation of projects.md",
+    "项目介绍.md",
+    "Conlusion of projects/Enjoy Plus MP.md",
     "Obsidian技巧.md",
     "splice & slice.md",
-    "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
-    "项目介绍.md",
-    "Sum up of projects/SLWL.md",
     "TMS Project.md",
+    "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
+    "Conlusion of projects",
+    "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
     "Interview/TS/2. 类型注解.md",
     "Interview/TS/1. TS介绍与基本使用.md",
     "Interview/Vue2/7. 说说你对Vue生命周期的理解?.md",
     "Interview/Vue2/8. 为什么Vue中给对象添加新属性界面不刷新?.md",
     "Interview/Vue2/9. Vue的权限控制该怎么做？.md",
-    "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Mini Program/11. 双token的登录超时处理--无感刷新.md",
-    "Front-end Study/Preparation of projects.md",
     "Front-end Study/Vue/el-table配合字典实现用key索引转换value.md",
     "Interview/Vue3 + mini + uniapp/10. 项目中的通用功能.md",
     "Interview/TS",
@@ -187,7 +190,6 @@
     "Interview/Vue2/100. 很难的原理问题.md",
     "Interview/Vue2/1. 说说你对vue的理解？.md",
     "Interview/Vue2/2. 你对SPA的理解？.md",
-    "Interview/Vue2/3. SPA首屏加载慢怎么解决？.md",
     "未命名.canvas",
     "2. Vue3单文件组件的使用与通信方式.pdf",
     "图片/Vue3生命周期.png",
@@ -202,7 +204,6 @@
     "Front-end Study/Mini Program",
     "Interview/CSS",
     "专业术语",
-    "Interview/Vue2",
     "spa.png",
     "pictures/spa.png",
     "未命名 2.canvas",

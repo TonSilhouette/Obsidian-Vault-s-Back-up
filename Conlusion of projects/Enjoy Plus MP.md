@@ -1,0 +1,44 @@
+## 概述
+EP项目是一款面向业主使用的房屋资源管理小程序，使用了原生微信小程序开发工具进行开发。项目功能包括：用户管理，如用户登录、资料管理；房屋管理如房屋的增删改查；报修管理如保修申请与取消，报修进度与详情显示；访客管理，如邀请访客与生成限时的二维码。项目的难点之一是用户可以根据地图搜索选定区域，之后进行范围检索小区并选择。另一个难点就是在报修申请确认后实时显示报修人员的距离与路线规划。这两个难点都是通过腾讯提供的位置服务实现的。在登录时还使用了双token做登录超时的自动刷新处理。
+
+## 项目框架
+
+```bash
+.
+├── components
+│   └── authorization
+├── house_pkg
+│   └── pages
+│       ├── building
+│       ├── detail
+│       ├── form
+│       ├── list
+│       ├── locate
+│       └── room
+├── libs
+├── miniprogram_npm
+├── pages
+│   ├── index
+│   ├── login
+│   ├── my
+│   ├── notify
+│   └── profile
+├── repair_pkg
+│   ├── pages
+│   │   ├── detail
+│   │   ├── form
+│   │   └── list
+│   └── static
+│       └── uploads
+├── static
+│   ├── images
+│   └── tabs
+├── utils
+│   ├── images
+│   └── tabs
+└── visitor_pkg
+    └── pages
+        ├── form
+        ├── list
+        └── passport
+```
