@@ -5,40 +5,25 @@ EP项目是一款面向业主使用的房屋资源管理小程序，使用了原
 
 ```bash
 .
-├── components
-│   └── authorization
-├── house_pkg
-│   └── pages
-│       ├── building
-│       ├── detail
-│       ├── form
-│       ├── list
-│       ├── locate
-│       └── room
-├── libs
-├── miniprogram_npm
+├── components // 全局组件
+│   └── authorization // 全局组件配合条件渲染、 匿名插槽实现权限区分渲染
+├── static
+│   ├── images
+│   └── tabs
+├── utils
+│   ├── http.js // 自己封装的请求
+│   └── qqmap.js
 ├── pages
 │   ├── index
 │   ├── login
 │   ├── my
 │   ├── notify
 │   └── profile
+├── house_pkg
+│   └── pages
 ├── repair_pkg
 │   ├── pages
-│   │   ├── detail
-│   │   ├── form
-│   │   └── list
 │   └── static
-│       └── uploads
-├── static
-│   ├── images
-│   └── tabs
-├── utils
-│   ├── images
-│   └── tabs
 └── visitor_pkg
     └── pages
-        ├── form
-        ├── list
-        └── passport
 ```
