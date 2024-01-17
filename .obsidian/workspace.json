@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的通信方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b70543a2eb127366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Interview/TS/3. TS在Vue3中的应用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,12 +172,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "35aca826d4fa5299",
+  "active": "b70543a2eb127366",
   "lastOpenFiles": [
-    "Interview/TS/2. 类型注解.md",
+    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的通信方式.md",
     "Interview/TS/3. TS在Vue3中的应用.md",
+    "Interview/TS/2. 类型注解.md",
     "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
-    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的使用与通信方式.md",
     "Interview/Vue3 + mini + uniapp/4. v-model 的原理.md",
     "Interview/Vue3 + mini + uniapp/3. ref（模板引用）.md",
     "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
