@@ -364,7 +364,9 @@
             "css": "#74ADEA",
             "html": "#BB7CD7",
             "js": "#DFC285",
-            "vue": "#A1C281"
+            "vue": "#A1C281",
+            "xml": "#A1C281",
+            "ts": "#B01D71"
           }
         },
         "header": {
@@ -395,7 +397,9 @@
             "css": "#56A89B",
             "html": "#7D1FC9",
             "js": "#59B4CD",
-            "vue": "#FB21BA"
+            "vue": "#FB21BA",
+            "xml": "#5A047A",
+            "ts": "#B01D71"
           }
         },
         "header": {
@@ -421,6 +425,6 @@
   "ThemeName": "Things",
   "newThemeName": "",
   "alternateHighlightColorName": "",
-  "languageBorderColorName": "",
+  "languageBorderColorName": "ts",
   "foldAllCommand": false
 }
