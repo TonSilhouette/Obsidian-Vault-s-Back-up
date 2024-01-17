@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Interview/TS/2. 类型注解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64f27cc5df2b8117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Interview/TS/3. TS在Vue3中的应用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 262.5
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -160,11 +173,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "35aca826d4fa5299",
+  "active": "64f27cc5df2b8117",
   "lastOpenFiles": [
-    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的使用与通信方式.md",
-    "Interview/TS/3. TS在Vue3中的应用.md",
     "Interview/TS/2. 类型注解.md",
+    "Interview/TS/3. TS在Vue3中的应用.md",
+    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的使用与通信方式.md",
     "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
     "Front-end Study/Mini Program/12. 微信头像与昵称.md",
     "Front-end Study/Mini Program/7. 自定义组件与传参.md",
