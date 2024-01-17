@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md",
+                "file": "Interview/TS/3. TS在Vue3中的应用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md",
+                "file": "Interview/TS/3. TS在Vue3中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md"
+                "file": "Interview/TS/3. TS在Vue3中的应用.md"
               }
             }
           },
@@ -171,11 +172,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "35aca826d4fa5299",
+  "active": "182017ec6ca4cc5d",
   "lastOpenFiles": [
+    "Interview/TS/2. 类型注解.md",
     "Interview/TS/3. TS在Vue3中的应用.md",
     "Interview/Vue3 + mini + uniapp/3. ref（模板引用）.md",
-    "Interview/TS/2. 类型注解.md",
     "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
     "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的使用与通信方式.md",
     "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
