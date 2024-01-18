@@ -155,5 +155,3 @@ Vue.use(Vuex)
      // 暴露对象
 	export default request
 	```
-
-## 基于模板搭建

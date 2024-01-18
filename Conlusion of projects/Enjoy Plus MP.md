@@ -12,7 +12,7 @@ EP项目是一款面向业主使用的房屋资源管理小程序，使用了原
 │   └── tabs
 ├── utils
 │   ├── http.js // 自己封装的请求
-│   └── qqmap.js
+│   └── qqmap.js // 腾讯地图位置服务
 ├── pages
 │   ├── index
 │   ├── login

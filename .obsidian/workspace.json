@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c965bdba6ff282e6",
+            "id": "f366c086ee3e6278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 323.5
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md",
+                "file": "Conlusion of projects/Enjoy Plus MP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/TS/2. 类型注解.md"
+                "file": "Conlusion of projects/Enjoy Plus MP.md"
               }
             }
           },
@@ -160,50 +160,50 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c965bdba6ff282e6",
+  "active": "f366c086ee3e6278",
   "lastOpenFiles": [
-    "Interview/TS/1. TS介绍与基本使用.md",
-    "Interview/Vue3 + mini + uniapp/4. v-model 的原理.md",
-    "Conlusion of projects/Enjoy Plus MP.md",
-    "Interview/TS/3. TS在Vue3中的应用.md",
-    "Front-end Study/Terms.md",
-    "Interview/Vue3 + mini + uniapp/2. Vue3单文件组件的通信方式.md",
-    "Interview/TS/2. 类型注解.md",
-    "Interview/Vue3 + mini + uniapp/3. ref（模板引用）.md",
-    "Conlusion of projects/TMS Project.md",
-    "Interview/Vue3 + mini + uniapp/1. Vue3 和 Vue2 的区别.md",
-    "Interview/Vue3 + mini + uniapp/11. 项目中的具体功能.md",
-    "Front-end Study/Mini Program/12. 微信头像与昵称.md",
-    "Front-end Study/Mini Program/7. 自定义组件与传参.md",
-    "Front-end Study/Mini Program/8. 框架接口.md",
-    "Front-end Study/Mini Program/9. 登录的权限校验.md",
+    "非笔记主体文件/TMS Project.md",
+    "Front-end Study/Mini Program/3. 生命周期.md",
+    "非笔记主体文件/图片/小程序生命周期.png",
+    "Front-end Study/Vue3/In6. Pinia.md",
+    "Front-end Study/Vue3/In5. 预留.md",
+    "Front-end Study/Vue3/In4. v-model 的原理.md",
+    "Front-end Study/Vue3/In3. ref（模板引用）.md",
+    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+    "Front-end Study/Vue3/In2. Vue3单文件组件的通信方式.md",
+    "Front-end Study/Vue3/Dev2. Vue3 + mini + uniapp 项目中的具体功能.md",
+    "Front-end Study/Vue3/Dev1. Vue3 + mini + uniapp 项目中的通用功能.md",
     "Front-end Study/Mini Program/11. 双token的登录超时处理--无感刷新.md",
-    "Front-end Study/Mini Program/10. 配置文件json.md",
-    "Interview/Vue3 + mini + uniapp/10. 项目中的通用功能.md",
-    "Interview/Vue3 + mini + uniapp/6. Pinia.md",
-    "Interview/Vue3 + mini + uniapp/5. 预留.md",
-    "Front-end Study/Preparation of projects.md",
-    "Front-end Study/Mini Program/5. 路由跳转.md",
-    "Front-end Study/Mini Program/6. 分包加载.md",
+    "Front-end Study/Mini Program/12. 微信头像与昵称.md",
     "Front-end Study/Mini Program/4. 内置 api.md",
-    "Front-end Study/Mini Program/1. 开发准备与上线.md",
     "Front-end Study/Mini Program/2. 模板语法.md",
-    "Conlusion of projects",
-    "Interview/TS",
+    "Front-end Study/Mini Program/1. 开发准备与上线.md",
+    "Front-end Study/Vue2/In10. 很难的原理问题.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
+    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+    "Front-end Study/Preparation of projects.md",
+    "Conlusion of projects/Enjoy Plus MP.md",
+    "JS/splice & slice.md",
+    "Conlusion of projects/TMS Project.md",
+    "非笔记主体文件",
+    "未命名文件夹",
+    "非笔记主体文件/基础阶段笔记/WebAPI.xmind",
+    "非笔记主体文件/基础阶段笔记/web.xmind",
+    "非笔记主体文件/基础阶段笔记/Vue.xmind",
+    "非笔记主体文件/基础阶段笔记/Nodejs.xmind",
+    "非笔记主体文件/基础阶段笔记/JS进阶.xmind",
+    "非笔记主体文件/基础阶段笔记/JS基础.xmind",
+    "非笔记主体文件/基础阶段笔记/HTML.xmind",
+    "非笔记主体文件/基础阶段笔记/Git.xmind",
+    "非笔记主体文件/Obsidian技巧.md",
+    "项目介绍.md",
+    "Front-end Study/CSS/In10. CSS3新增属性.md",
     "未命名.canvas",
-    "2. Vue3单文件组件的使用与通信方式.pdf",
-    "图片/Vue3生命周期.png",
-    "图片/Vue3生命周期.png.crdownload",
-    "Interview/Vue3 + mini + uniapp",
-    "Interview/Vue2/未命名",
+    "非笔记主体文件/图片/Vue3生命周期.png",
     "图片/小程序头像和昵称编辑_副本.jpg",
-    "图片/小程序头像和昵称编辑.jpg",
+    "非笔记主体文件/图片/小程序头像和昵称编辑.jpg",
     "Pasted image 20231217101930.png",
-    "图片/小程序生命周期.png",
-    "图片",
-    "Front-end Study/Mini Program",
-    "Interview/CSS",
-    "专业术语",
     "spa.png",
     "pictures/spa.png",
     "未命名 2.canvas",
