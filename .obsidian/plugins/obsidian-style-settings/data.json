@@ -2,8 +2,8 @@
   "things-style@@strong-color": "#FFFFFF",
   "things-style@@fancy-code": false,
   "things-style@@no-kanban-styles": false,
-  "things-style@@code-color-d": "#DB87BA",
-  "things-style@@code-normal": "#DB87BA",
+  "things-style@@code-color-d": "#DCDCDC",
+  "things-style@@code-normal": "#DCDCDC",
   "things-style@@quote-color": "#3EB4BF",
   "things-style@@em-color": "#D27378"
 }

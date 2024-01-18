@@ -342,7 +342,7 @@
         "enableHighlight": true
       },
       "inlineCode": {
-        "enableInlineCodeStyling": false
+        "enableInlineCodeStyling": true
       },
       "printing": {
         "enablePrintToPDFStyling": false,
@@ -382,8 +382,8 @@
           "activeLineNrColor": "--text-muted"
         },
         "inlineCode": {
-          "backgroundColor": "--code-background",
-          "textColor": "--code-normal"
+          "backgroundColor": "#43464B",
+          "textColor": "#E7EDF3"
         },
         "editorActiveLineColor": "--color-base-20"
       },
