@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+                "file": "Front-end Study/TS/3. TS在Vue3中的应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+                "file": "Front-end Study/TS/3. TS在Vue3中的应用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+                "file": "Front-end Study/TS/3. TS在Vue3中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md"
+                "file": "Front-end Study/TS/3. TS在Vue3中的应用.md"
               }
             }
           },
@@ -162,6 +162,9 @@
   },
   "active": "f366c086ee3e6278",
   "lastOpenFiles": [
+    "Front-end Study/TS/2. 类型注解.md",
+    "Front-end Study/TS/1. TS介绍与基本使用.md",
+    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
     "Conlusion of projects/Enjoy Plus MP.md",
     "非笔记主体文件/TMS Project.md",
@@ -186,7 +189,6 @@
     "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/Preparation of projects.md",
     "JS/splice & slice.md",
-    "Conlusion of projects/TMS Project.md",
     "非笔记主体文件",
     "未命名文件夹",
     "非笔记主体文件/基础阶段笔记/WebAPI.xmind",
@@ -197,8 +199,6 @@
     "非笔记主体文件/基础阶段笔记/JS基础.xmind",
     "非笔记主体文件/基础阶段笔记/HTML.xmind",
     "非笔记主体文件/基础阶段笔记/Git.xmind",
-    "非笔记主体文件/Obsidian技巧.md",
-    "项目介绍.md",
     "未命名.canvas",
     "非笔记主体文件/图片/Vue3生命周期.png",
     "图片/小程序头像和昵称编辑_副本.jpg",
