@@ -115,3 +115,54 @@ export const useCounterStore = defineStore("counter", () => {
 ```js
 const { name, doubleCount } = storeToRefs(store)
 ```
+
+## 五、数据持久化
+
+- 下载插件`pinia-plugin-persistedstate`
+```bash
+pnpm i pinia-plugin-persistedstate
+```
+
+- 引入并挂载
+```js file:main.js hl:5,8
+import { createApp } from 'vue'
+import { createPinia } from 'pinia'
+import App from './App.vue'
+import router from './router'
+import persist from 'pinia-plugin-persistedstate'
+const app = createApp(App)
+const pinia = createPinia()
+pinia.use(persist)
+app.use(pinia)
+app.use(router)
+app.mount('#app')
+```
+
+- 在仓库中显式开启持久化功能，作为仓库的第三个参数
+```js hl:22-24
+import { defineStore } from 'pinia'
+import { ref } from 'vue'
+export const useUserStore = defineStore(
+	'user',
+	() => {
+		// 储存数据的地方
+		const user = ref({})
+		// 传入对象可以保存的函数
+		const setUser = (data) => {
+		user.value = data
+		}
+		// 清空数据的函数
+		const clearUser = () => {
+			user.value = {}
+		}
+		return {
+			user,
+			setUser,
+			clearUser
+		}
+	},
+	{
+		persist: true
+	}
+)
+```
