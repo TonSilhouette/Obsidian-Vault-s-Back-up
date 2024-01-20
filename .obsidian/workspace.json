@@ -4,119 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5d049155297a1e3d",
+        "id": "78232e72e6b3ad99",
         "type": "tabs",
         "children": [
           {
-            "id": "db4295762d2febcf",
+            "id": "fc2e3feef07f6b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/CSS/In2. 清除浮动.md",
+                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98bfed567ba095de",
+            "id": "1e2a31975cd1c372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/CSS/In3. rem, px, em区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c62c5306c0dbe7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In4..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12317e45f8d23239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In5..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8794f06540fb62b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In6..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd24c4914478052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In7..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7502fd65727e9e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In8..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e461238a0f85dee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In9..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a811e93d4b5b753f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体应用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 266.5
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -182,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体应用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体应用.md"
               }
             }
           },
@@ -257,23 +173,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a811e93d4b5b753f",
+  "active": "1e2a31975cd1c372",
   "lastOpenFiles": [
-    "In9..md",
-    "未命名.md",
-    "In8..md",
-    "In7..md",
-    "In6..md",
-    "In5..md",
-    "In4..md",
-    "Front-end Study/CSS/In10. CSS3新增属性.md",
+    "Front-end Study/TS/In3. TS在Vue3中的应用.md",
+    "Front-end Study/TS/Dev1. TS在Vue3中的具体应用.md",
+    "Front-end Study/Preparation of projects.md",
+    "Front-end Study/TS/In2. 类型注解.md",
+    "Front-end Study/TS/In1. TS介绍与基本使用.md",
+    "Front-end Study/CSS/In6..md",
+    "Front-end Study/CSS/In5. 图片懒加载和预加载.md",
+    "Front-end Study/CSS/In4. 伪类与伪元素.md",
     "Front-end Study/CSS/In3. rem, px, em区别.md",
+    "Front-end Study/CSS/In20. CSS3新增属性.md",
+    "Front-end Study/CSS/In10..md",
+    "Front-end Study/CSS/In9..md",
+    "Front-end Study/CSS/In8..md",
+    "Front-end Study/CSS/In7..md",
     "Front-end Study/Mini Program/1. 开发准备与上线.md",
     "Front-end Study/CSS/In2. 清除浮动.md",
     "Front-end Study/Terms.md",
-    "Front-end Study/TS/3. TS在Vue3中的应用.md",
-    "Front-end Study/TS/2. 类型注解.md",
-    "Front-end Study/TS/1. TS介绍与基本使用.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
     "Conlusion of projects/Enjoy Plus MP.md",
@@ -284,8 +202,6 @@
     "Front-end Study/Vue3/In5. 预留.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
-    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
-    "Front-end Study/Vue3/In2. Vue3单文件组件的通信方式.md",
     "非笔记主体文件",
     "未命名文件夹",
     "非笔记主体文件/基础阶段笔记/WebAPI.xmind",
