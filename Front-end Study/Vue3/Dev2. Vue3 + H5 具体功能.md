@@ -28,6 +28,44 @@
 	- 该仓库还使用了持久化插件，刷新后数据还在（`defineStore`的第三个参数）
 7. 在登录函数内，将拿到的数据放入仓库
 
-## 二、路由嵌套
+## 二、嵌套路由
 
-路由嵌套在vue的项目中非常常见，
+**什么情况下使用**
+嵌套路由在vue的项目中几乎是必须的。因为Vue倡导单页面应用开发，使用路由就可以让页面跳转路径但却不重新加载全部的页面，只是重新加载切换掉的组件，让交互变得更丝滑。页面与组件之间的嵌套就需要路由之间的嵌套。
+
+**怎么配置**
+1. 引入：Vue3中的路由需要引入组合式API：
+	- `createRouter()`创建路由的函数
+	- `createWebHistory()` / `createWebHashHistory()` 历史模式/哈希模式
+2. 使用：`createRouter()`内设置
+```ts
+const router = createRouter({
+	history: createWebHistory(import.meta.env.BASE_URL),
+	routes: [
+		// 首页布局容器
+		{
+			path: '/',
+			// 如果只有一级路由的url, 希望重定向到首页
+			redirect: '/home',
+			// 一级路由容器
+			component: () => import('@/views/Layout/index.vue'),
+			meta: { 信息名: 数据 }, // 路由元信息
+			children: [
+				// 二级页面
+				{
+					path: 'home',
+					component: () => import('@/views/Home/index.vue')
+				}
+			]
+		},
+		// 登录页
+		{ 
+			path: '/login',
+			component: () => import('@/views/Login/index.vue') 
+		}
+	]
+})
+```
+
+## 三、底部导航切换高亮
+
