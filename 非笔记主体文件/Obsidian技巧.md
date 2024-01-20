@@ -9,5 +9,17 @@
 ## Obsidian Git 报错
 
 ```bash
+// error:
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
 ```
 
+- 原因：`git`在同时执行两个命令时，通常会出现此类问题；可能一种来自命令提示符，另一种来自 IDE。
+
+- 解决方式：删除目录或工作树之一中的`index.lock`的文件
+```bash
+rm -f .git/index.lock
+```

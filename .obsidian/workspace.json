@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2f9bfe3f9eec1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "非笔记主体文件/Obsidian技巧.md",
+                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "非笔记主体文件/Obsidian技巧.md",
-                "collapseAll": true,
+                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "非笔记主体文件/Obsidian技巧.md",
+                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "非笔记主体文件/Obsidian技巧.md"
+                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md"
               }
             }
           },
@@ -150,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,16 +160,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2f9bfe3f9eec1a2",
+  "active": "f1928315b0274a86",
   "lastOpenFiles": [
+    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+    "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+    "Front-end Study/Vue3/Dev2. Vue3 + uniapp 具体功能.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/TS/In3. TS在Vue3中的应用.md",
+    "非笔记主体文件/Obsidian技巧.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
     "Front-end Study/TS/Dev2. TS在Vue3中的具体应用.md",
     "Front-end Study/TS/In2. 类型注解.md",
     "Front-end Study/Vue3/In6. Pinia.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 通用功能.md",
-    "Front-end Study/Vue3/Dev2. Vue3 + uniapp 具体功能.md",
     "Conlusion of projects/Preparation of projects.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
@@ -198,8 +188,6 @@
     "Front-end Study/CSS/In2. 清除浮动.md",
     "Front-end Study/Terms.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
-    "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
-    "Conlusion of projects/Enjoy Plus MP.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
