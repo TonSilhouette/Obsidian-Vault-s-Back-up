@@ -4,22 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf3c7fda1c885e3",
+        "id": "5d049155297a1e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "f366c086ee3e6278",
+            "id": "db4295762d2febcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Terms.md",
+                "file": "Front-end Study/CSS/In2. 清除浮动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98bfed567ba095de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end Study/CSS/In3. rem, px, em区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62c5306c0dbe7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In4..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12317e45f8d23239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In5..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8794f06540fb62b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In6..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bd24c4914478052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In7..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7502fd65727e9e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In8..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e461238a0f85dee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In9..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a811e93d4b5b753f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -69,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 419.5
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Terms.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Terms.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Terms.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -160,8 +257,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f366c086ee3e6278",
+  "active": "a811e93d4b5b753f",
   "lastOpenFiles": [
+    "In9..md",
+    "未命名.md",
+    "In8..md",
+    "In7..md",
+    "In6..md",
+    "In5..md",
+    "In4..md",
+    "Front-end Study/CSS/In10. CSS3新增属性.md",
+    "Front-end Study/CSS/In3. rem, px, em区别.md",
+    "Front-end Study/Mini Program/1. 开发准备与上线.md",
+    "Front-end Study/CSS/In2. 清除浮动.md",
+    "Front-end Study/Terms.md",
     "Front-end Study/TS/3. TS在Vue3中的应用.md",
     "Front-end Study/TS/2. 类型注解.md",
     "Front-end Study/TS/1. TS介绍与基本使用.md",
@@ -177,18 +286,6 @@
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/In2. Vue3单文件组件的通信方式.md",
-    "Front-end Study/Vue3/Dev2. Vue3 + mini + uniapp 项目中的具体功能.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + mini + uniapp 项目中的通用功能.md",
-    "Front-end Study/Mini Program/11. 双token的登录超时处理--无感刷新.md",
-    "Front-end Study/Mini Program/12. 微信头像与昵称.md",
-    "Front-end Study/Mini Program/4. 内置 api.md",
-    "Front-end Study/Mini Program/2. 模板语法.md",
-    "Front-end Study/Mini Program/1. 开发准备与上线.md",
-    "Front-end Study/Vue2/In10. 很难的原理问题.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
-    "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
-    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
-    "Front-end Study/Preparation of projects.md",
     "非笔记主体文件",
     "未命名文件夹",
     "非笔记主体文件/基础阶段笔记/WebAPI.xmind",
