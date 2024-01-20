@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
+                "file": "非笔记主体文件/Obsidian技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
+                "file": "非笔记主体文件/Obsidian技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
+                "file": "非笔记主体文件/Obsidian技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md"
+                "file": "非笔记主体文件/Obsidian技巧.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "e2f9bfe3f9eec1a2",
   "lastOpenFiles": [
+    "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/TS/In3. TS在Vue3中的应用.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
-    "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/TS/Dev2. TS在Vue3中的具体应用.md",
     "Front-end Study/TS/In2. 类型注解.md",
     "Front-end Study/Vue3/In6. Pinia.md",

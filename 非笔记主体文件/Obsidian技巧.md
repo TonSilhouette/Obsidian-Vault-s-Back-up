@@ -6,3 +6,8 @@
 ## Emoji 😜
 `Control + Command + SPACE`
 
+## Obsidian Git 报错
+
+```bash
+```
+
