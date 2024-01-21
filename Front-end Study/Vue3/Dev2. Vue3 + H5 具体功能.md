@@ -69,3 +69,5 @@ const router = createRouter({
 
 ## 三、底部导航切换高亮
 
+方案一：vant
+方案二：原生
