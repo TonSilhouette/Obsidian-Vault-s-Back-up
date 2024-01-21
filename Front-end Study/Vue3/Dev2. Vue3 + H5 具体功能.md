@@ -69,5 +69,19 @@ const router = createRouter({
 
 ## 三、底部导航切换高亮
 
-方案一：vant
+方案一：vant-NavBar-自定义图标
+通过 `icon` 插槽自定义图标，可以通过 `slot-scope` / `#名字` 判断标签是否选中。
+```xml
+<van-tabbar v-model="active">
+  <van-tabbar-item badge="3">
+    <span>自定义</span>
+    <template #icon="props">
+      <img :src="props.active ? icon.active : icon.inactive" />
+    </template>
+  </van-tabbar-item>
+  <van-tabbar-item icon="search">标签</van-tabbar-item>
+  <van-tabbar-item icon="setting-o">标签</van-tabbar-item>
+</van-tabbar>
+```
+
 方案二：原生
