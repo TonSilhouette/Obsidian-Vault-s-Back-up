@@ -5,7 +5,7 @@ Vue.js（或简称为Vue）是一个用于创建用户界面的开源JavaScript�
 `MVVM`表示的是 `Model-View-ViewModel`
 - Model：模型层（数据），负责处理业务逻辑以及和服务器端进行交互
 - View：视图层（界面），负责将数据模型转化为UI展示出来，可以简单的理解为HTML页面
-- ViewModel：视图模型层（Vue提供的核心功能），用来连接Model和View，是Model和View之间的通信桥梁
+- ViewModel：视图模型层（Vue提供的核心功能），用来连接Model和View，是它们之间的通信桥梁
 ### 组件化
 **什么是组件化**
 一句话来说就是把图形、非图形的各种逻辑均抽象为一个统一的概念（组件）来实现开发的模式，在`Vue`中每一个`.vue`文件都可以视为一个组件

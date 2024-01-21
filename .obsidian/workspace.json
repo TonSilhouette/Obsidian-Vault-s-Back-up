@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 263.50390243530273
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md"
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md"
               }
             }
           },
@@ -162,13 +162,16 @@
   },
   "active": "f1928315b0274a86",
   "lastOpenFiles": [
+    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+    "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
+    "Front-end Study/Vue2/In1. 说说你对vue的理解？.md",
+    "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
     "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/TS/In2. 类型注解.md",
     "Front-end Study/TS/In3. TS在Vue3中的应用.md",
     "非笔记主体文件/Obsidian技巧.md",
-    "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
     "Front-end Study/Vue3/Dev2. Vue3 + uniapp 具体功能.md",
     "Front-end Study/TS/Dev2. TS在Vue3中的具体应用.md",
     "Front-end Study/Vue3/In6. Pinia.md",
@@ -185,9 +188,6 @@
     "Front-end Study/CSS/In8..md",
     "Front-end Study/CSS/In7..md",
     "Front-end Study/Mini Program/1. 开发准备与上线.md",
-    "Front-end Study/CSS/In2. 清除浮动.md",
-    "Front-end Study/Terms.md",
-    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
