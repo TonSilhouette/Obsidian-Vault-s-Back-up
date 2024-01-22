@@ -3,7 +3,7 @@
 
 ## 一、封装全局自定义组件`authorization`
 
-封装方法：[[7. 自定义组件与传参#一、基础使用|自定义组件的基础使用]]
+封装方法：[[In7. 自定义组件与传参#一、基础使用|自定义组件的基础使用]]
 
 - 在`authorization`组件的`attached`生命周期中去获取在本地或者`app`里存储的token，并根据有无token来改变变量`isLogin`的布尔值
 - 在`authorization`组件的`wxml`页面里放入内容，添加`wx:if`绑定`isLogin`来判断有无登录
