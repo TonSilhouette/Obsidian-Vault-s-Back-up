@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e28c22f7d10fe683",
+            "id": "ad9323788cf74de5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP.md",
+                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "f1928315b0274a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d568896a914fe10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -52,18 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "Front-end Study/Mini Program/In9. 配置文件json.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad9323788cf74de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Mini Program/In6. 分包加载.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,36 +46,24 @@
             }
           },
           {
-            "id": "507b49670b77193d",
+            "id": "c52ea0996520496e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Mini Program/In8. 框架接口.md",
+                "file": "Front-end Study/TS/In2. 类型注解.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "299fab9d1f7f5536",
+            "id": "43f499bdb363a5c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e834eaec59f971ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
+                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP.md",
+                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP.md",
+                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP.md"
+                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md"
               }
             }
           },
@@ -258,34 +210,73 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e28c22f7d10fe683",
+  "floating": {
+    "id": "2caa92afd879790e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "711b52ce3aff3242",
+        "type": "window",
+        "children": [
+          {
+            "id": "76bd382e2ed71aed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e28c22f7d10fe683",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Conlusion of projects/Enjoy Plus MP 🟢.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 445,
+        "y": 66,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "ad9323788cf74de5",
   "lastOpenFiles": [
-    "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
+    "Conlusion of projects/Enjoy Plus MP 🟢.md",
+    "Conlusion of projects/Rabbit E-commerce 🟠.md",
+    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+    "Front-end Study/Mini Program/In6. 分包加载.md",
+    "Front-end Study/Mini Program/In9. 配置文件json.md",
+    "Front-end Study/Mini Program/In8. 框架接口.md",
+    "Front-end Study/TS/In2. 类型注解.md",
+    "Front-end Study/TS/In1. TS介绍与基本使用.md",
+    "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
-    "Conlusion of projects/Enjoy Plus MP.md",
+    "Conlusion of projects/Preparation of projects 🟤.md",
+    "Conlusion of projects/TMS Project 🟠.md",
+    "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
-    "Front-end Study/Mini Program/In8. 框架接口.md",
-    "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
-    "Front-end Study/Mini Program/In6. 分包加载.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
-    "Front-end Study/Mini Program/In9. 配置文件json.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
     "Front-end Study/Mini Program/In3. 生命周期.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
     "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "小程序缩小体积方法.md",
-    "Conlusion of projects/Preparation of projects.md",
     "非笔记主体文件/TMS Project.md",
-    "非笔记主体文件/Obsidian技巧.md",
-    "Tips of Resume.md",
-    "Conlusion of projects/Rabbit E-commerce.md",
-    "Conlusion of projects/TMS Project.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
