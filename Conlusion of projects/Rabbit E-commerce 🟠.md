@@ -5,7 +5,7 @@ RE项目是一款电商类微信小程序。 功能包括：用户登录与个�
 
 ## 技术栈
 
-uni-app、vue3、Pinia、uni-ui
+Uni-app、Vue3、Pinia、Uni-ui
 
 ## 负责业务
 
