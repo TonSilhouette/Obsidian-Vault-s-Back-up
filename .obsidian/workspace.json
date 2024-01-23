@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "88d264b91a9ac539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88d264b91a9ac539",
+  "active": "ad9323788cf74de5",
   "lastOpenFiles": [
     "Conlusion of projects/Enjoy Plus MP 🟢.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
