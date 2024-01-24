@@ -18,7 +18,7 @@
 1. 移动文件
 	- 将需要分包的文件放入根目录下的独立文件，命名`packageXX` / `xx_pkg`
 	- 文件包括`pages`页面四件套，`static`静态资源
-```
+``` xml
 ├── app.js
 ├── app.json
 ├── app.wxss
@@ -68,7 +68,8 @@
       ]
     }
   ]
-}```
+}
+```
 
 3. 打包原则
 	- 声明 `subpackages` 后，将按 `subpackages` 配置路径进行打包，配置路径外的目录将被打包到主包中
