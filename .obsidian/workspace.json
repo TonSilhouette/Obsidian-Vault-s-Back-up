@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Mini Program/In9. 配置文件json.md",
-                "mode": "preview",
+                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Mini Program/In9. 配置文件json.md",
+                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Mini Program/In9. 配置文件json.md",
+                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Mini Program/In9. 配置文件json.md"
+                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md"
               }
             }
           },
@@ -162,6 +162,11 @@
   },
   "active": "64cf0e14e33abc2f",
   "lastOpenFiles": [
+    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+    "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+    "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
+    "Front-end Study/Terms.md",
+    "Front-end Study/Mini Program/In9. 配置文件json.md",
     "Front-end Study/Mini Program/In10. 小程序缩小体积方法.md",
     "Front-end Study/Mini Program/In8. 框架接口.md",
     "Front-end Study/Vue3/In6. Pinia.md",
@@ -183,11 +188,6 @@
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
     "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
-    "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
-    "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
-    "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
-    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
-    "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
