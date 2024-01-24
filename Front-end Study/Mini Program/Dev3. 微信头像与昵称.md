@@ -19,7 +19,7 @@ hover-class="none"
 ```
 
 - 设置属性`open-type`为`chooseAvatar`，即可点击头像触发微信自带的选择头像弹窗
-- 绑定`chooseavatar`来获取到设置的头像的临时路径
+- 绑定`chooseavatar`事件来获取到设置的头像的临时路径
 
 ### 修改
 

@@ -4,85 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d94bda5c1ff20c0",
+        "id": "557c34e4bab3b9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9323788cf74de5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8878bdb8d90608f5",
+            "id": "64cf0e14e33abc2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Mini Program/In3. 生命周期.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ef7690f3fc52f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Mini Program/In8. 框架接口.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33c6e658017a3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a22be2dd371ff367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP 🟢.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e988167823ad5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
-                "mode": "source",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md"
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md"
               }
             }
           },
@@ -223,34 +160,34 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e988167823ad5e6",
+  "active": "64cf0e14e33abc2f",
   "lastOpenFiles": [
-    "Conlusion of projects/Rabbit E-commerce 🟠.md",
-    "Conlusion of projects/TMS Project 🟠.md",
-    "Front-end Study/Mini Program/In3. 生命周期.md",
-    "Front-end Study/Mini Program/In8. 框架接口.md",
-    "Conlusion of projects/Enjoy Plus MP 🟢.md",
-    "Conlusion of projects/Preparation of projects 🟤.md",
-    "Front-end Study/Mini Program/In2. 模板语法.md",
+    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
-    "Front-end Study/Mini Program/In4. 内置 api.md",
-    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
-    "Front-end Study/Mini Program/In9. 配置文件json.md",
-    "Front-end Study/TS/In2. 类型注解.md",
-    "Front-end Study/Mini Program/In6. 分包加载.md",
-    "Front-end Study/Mini Program/In10. 小程序缩小体积方法.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
-    "Front-end Study/TS/In1. TS介绍与基本使用.md",
-    "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
-    "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
-    "Front-end Study/Mini Program/In5. 路由跳转.md",
-    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
-    "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
+    "Front-end Study/Vue3/In6. Pinia.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
-    "非笔记主体文件/TMS Project.md",
+    "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
+    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+    "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
+    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
+    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+    "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
+    "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
+    "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+    "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
+    "Front-end Study/Vue2/In1. 说说你对vue的理解？.md",
+    "Front-end Study/Vue2/Dev1. el-table配合字典实现用索引转换值.md",
+    "Front-end Study/Vue2/In10. 很难的原理问题.md",
+    "Conlusion of projects/Rabbit E-commerce 🟠.md",
+    "Front-end Study/Mini Program/In3. 生命周期.md",
+    "Front-end Study/Mini Program/In8. 框架接口.md",
+    "Conlusion of projects/Enjoy Plus MP 🟢.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",

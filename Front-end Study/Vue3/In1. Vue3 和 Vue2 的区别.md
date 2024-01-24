@@ -54,7 +54,6 @@ app.mount('#app')
 **vue2**：选项式API （Options API）
 - 在vue2中在`data(){}`中定义数据变量 ，在`methods:{}`中定义方法
 
-
 **vue3**：组合式API （Composition API）
 - 组合式 API 是一系列 API 的集合，使我们可以使用函数而不是声明选项的方式写 Vue 组件
 - `setup()` 钩子是在组件中使用组合式 API 的入口，vue3的所有数据与方法都定义在setup()方法里，最后把要用到的数据和函数都return出去
