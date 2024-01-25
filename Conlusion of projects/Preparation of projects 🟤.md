@@ -2,11 +2,11 @@
 ### 1. 自定义创建项目
 - `create new project-name`
 - manually：
-		- Babel 语法降级、按需导入
-		- Router 路由
-		- Veux
-		- Css Pre-processor预处理 less/css/stylus
-		- ESLint 语法规范
+	- Babel 语法降级、按需导入
+	- Router 路由
+	- Veux
+	- Css Pre-processor预处理 less/css/stylus
+	- ESLint 语法规范
 - vue: 2.x
 - do not use history mode
 - pre-processor: less

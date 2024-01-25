@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+                "file": "Conlusion of projects/Preparation of projects 🟤.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+                "file": "Conlusion of projects/Preparation of projects 🟤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+                "file": "Conlusion of projects/Preparation of projects 🟤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md"
+                "file": "Conlusion of projects/Preparation of projects 🟤.md"
               }
             }
           },
@@ -162,8 +162,12 @@
   },
   "active": "64cf0e14e33abc2f",
   "lastOpenFiles": [
-    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
+    "Conlusion of projects/Enjoy Plus MP 🟢.md",
+    "Conlusion of projects/Rabbit E-commerce 🟠.md",
+    "Conlusion of projects/TMS Project 🟠.md",
+    "Conlusion of projects/Preparation of projects 🟤.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
+    "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
     "Front-end Study/Terms.md",
     "Front-end Study/Mini Program/In9. 配置文件json.md",
@@ -184,10 +188,6 @@
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
     "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
-    "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
-    "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
-    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
