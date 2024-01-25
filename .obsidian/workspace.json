@@ -10,16 +10,57 @@
           {
             "id": "64cf0e14e33abc2f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
+                "file": "Conlusion of projects/Rabbit E-commerce  MP🟠.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cbb35ac62b573274",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/Enjoy Plus MP 🟢.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "67fd6ffd2a77768f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/TMS PC🟠.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b160508e6559b9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.50390243530273
+    "width": 210.50390243530273
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
+                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md",
+                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce 🟠.md"
+                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md"
               }
             }
           },
@@ -160,12 +201,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "64cf0e14e33abc2f",
+  "active": "b160508e6559b9bc",
   "lastOpenFiles": [
-    "Conlusion of projects/Preparation of projects 🟤.md",
-    "Conlusion of projects/Rabbit E-commerce 🟠.md",
+    "Conlusion of projects/Rabbit E-commerce  MP🟠.md",
     "Conlusion of projects/Enjoy Plus MP 🟢.md",
-    "Conlusion of projects/TMS Project 🟠.md",
+    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+    "Conlusion of projects/TMS PC🟠.md",
+    "Conlusion of projects/Preparation of projects 🟤.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
@@ -180,7 +222,6 @@
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
     "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
     "Front-end Study/Mini Program/In6. 分包加载.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
