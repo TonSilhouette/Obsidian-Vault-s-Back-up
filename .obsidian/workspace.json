@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64cf0e14e33abc2f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "cbb35ac62b573274",
             "type": "leaf",
             "pinned": true,
@@ -36,31 +22,21 @@
             }
           },
           {
-            "id": "67fd6ffd2a77768f",
+            "id": "64cf0e14e33abc2f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/5. TMS PC 🟠.md",
+                "file": "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b2e8c33aa185db51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/5. TMS PC 🟠.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9672897fc841b57",
+            "id": "2335bf1477863a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,33 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b160508e6559b9bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa952b217ab468df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,15 +189,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e9672897fc841b57",
+  "active": "2335bf1477863a18",
   "lastOpenFiles": [
     "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
-    "Conlusion of projects/1. HRM Backend PC 🟠.md",
-    "Conlusion of projects/4. Telemedicine H5 🟠.md",
-    "Conlusion of projects/5. TMS PC 🟠.md",
     "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
-    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+    "Conlusion of projects/1. HRM Backend PC 🟠.md",
+    "Conlusion of projects/5. TMS PC 🟠.md",
+    "Conlusion of projects/4. Telemedicine H5 🟠.md",
     "Conlusion of projects/Preparation of projects 🟤.md",
+    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+    "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
@@ -258,7 +211,6 @@
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
-    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
     "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
     "Front-end Study/Mini Program/In6. 分包加载.md",
