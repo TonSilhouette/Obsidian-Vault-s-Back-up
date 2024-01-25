@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/Rabbit E-commerce  MP🟠.md",
+                "file": "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/Enjoy Plus MP 🟢.md",
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/TMS PC🟠.md",
+                "file": "Conlusion of projects/5. TMS PC 🟠.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e8c33aa185db51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/5. TMS PC 🟠.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9672897fc841b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/1. HRM Backend PC 🟠.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,9 +82,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa952b217ab468df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.50390243530273
+    "width": 246.50390243530273
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -126,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md"
+                "file": "Conlusion of projects/1. HRM Backend PC 🟠.md"
               }
             }
           },
@@ -201,12 +237,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b160508e6559b9bc",
+  "active": "e9672897fc841b57",
   "lastOpenFiles": [
-    "Conlusion of projects/Rabbit E-commerce  MP🟠.md",
-    "Conlusion of projects/Enjoy Plus MP 🟢.md",
+    "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+    "Conlusion of projects/1. HRM Backend PC 🟠.md",
+    "Conlusion of projects/4. Telemedicine H5 🟠.md",
+    "Conlusion of projects/5. TMS PC 🟠.md",
+    "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
     "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
-    "Conlusion of projects/TMS PC🟠.md",
     "Conlusion of projects/Preparation of projects 🟤.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
@@ -227,8 +265,6 @@
     "Front-end Study/Mini Program/In5. 路由跳转.md",
     "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
-    "Front-end Study/Mini Program/In2. 模板语法.md",
-    "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
