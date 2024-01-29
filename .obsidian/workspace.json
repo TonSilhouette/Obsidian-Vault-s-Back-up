@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
-                "mode": "source",
+                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
+                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md",
+                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/Preparation of projects 🟤.md"
+                "file": "Front-end Study/TS/In3. TS在Vue3中的应用.md"
               }
             }
           },
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
+    "width": 244.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,6 +191,8 @@
   },
   "active": "0dc707f12e50c494",
   "lastOpenFiles": [
+    "Front-end Study/TS/In2. 类型注解.md",
+    "Conlusion of projects/Preparation of projects 🟤.md",
     "Front-end Study/Vue2/In10. 很难的原理问题.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
@@ -215,8 +217,6 @@
     "Front-end Study/Mini Program/In8. 框架接口.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
-    "Front-end Study/TS/In2. 类型注解.md",
-    "Front-end Study/Mini Program/In2. 模板语法.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
