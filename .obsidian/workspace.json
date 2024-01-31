@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In10. 前端如何解决跨域.md",
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
                 "mode": "source",
                 "source": false
               },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In10. 前端如何解决跨域.md",
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In10. 前端如何解决跨域.md",
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In10. 前端如何解决跨域.md"
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md"
               }
             }
           },
@@ -177,13 +177,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d392105c27cf58e9",
+  "active": "72b2425764fb1938",
   "lastOpenFiles": [
     "Front-end Study/AJAX",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Conlusion of projects/4. Telemedicine H5 🟢.md",
     "Front-end Study/Vue2/In100. 很难的原理问题.md",
-    "In10. 前端如何解决跨域.md",
+    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
     "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
