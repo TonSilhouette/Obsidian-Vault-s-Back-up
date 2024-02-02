@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c2cd41aa95896ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md"
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
               }
             }
           },
@@ -177,13 +189,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "72b2425764fb1938",
+  "active": "c2cd41aa95896ce3",
   "lastOpenFiles": [
+    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/AJAX",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Conlusion of projects/4. Telemedicine H5 🟢.md",
     "Front-end Study/Vue2/In100. 很难的原理问题.md",
-    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
     "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
@@ -216,7 +228,6 @@
     "非笔记主体文件/基础阶段笔记/JS进阶.xmind",
     "非笔记主体文件/基础阶段笔记/JS基础.xmind",
     "非笔记主体文件/基础阶段笔记/HTML.xmind",
-    "非笔记主体文件/基础阶段笔记/Git.xmind",
     "非笔记主体文件/图片/Vue3生命周期.png",
     "图片/小程序头像和昵称编辑_副本.jpg",
     "非笔记主体文件/图片/小程序头像和昵称编辑.jpg",
