@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue3/In4. v-model 的原理.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue3/In4. v-model 的原理.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue3/In4. v-model 的原理.md",
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue3/In4. v-model 的原理.md"
+                "file": "Front-end Study/Vue2/In2. 你对SPA的理解？.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "c2cd41aa95896ce3",
   "lastOpenFiles": [
-    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
+    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
