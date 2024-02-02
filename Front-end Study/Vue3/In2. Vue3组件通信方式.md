@@ -112,7 +112,7 @@ defineExpose({ sayHello });
 	4. 此时父组件就可以使用`子组件注册名.value.子组件暴露的数据或函数名`获取到子组件的内容了
 
 ### 3. 兄弟组件传值
-- 利用父组件塔桥传递 - `defineProps`&`defineProps`
+- 利用父组件塔桥传递 - `defineProps`&`defineEmits`
 - Vue 状态管理库 - Pinia
 
 ### 4. 祖先后代组件传值
