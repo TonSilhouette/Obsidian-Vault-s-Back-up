@@ -53,7 +53,7 @@ response.setHeader('Access-Control-Allow-Origin', '*')
 
 ### 2.反向代理
 前提：node + vue + webpack + webpack-dev-server 搭建的项目
-```js file:vue.config.js hl:14-18
+```js file:vue.config.js hl:7,14-18
 module.exports = {
 	publicPath: '/',
 	outputDir: 'dist',
@@ -76,4 +76,15 @@ module.exports = {
 	}
 }
 ```
+
+#### 正向代理与反向代理的区别
+- 正向代理是代理客户端，为客户端服务
+- 反向代理是代理服务器，为服务器端服务
+
+#### 工作原理：
+- 在Webpack的配置文件中，可以通过配置`devServer.proxy`选项来设置代理
+- 代理服务器会**拦截**前端发送的请求，并将请求**转发**到目标服务器
+- 在转发请求时，代理服务器会**修改请求的域名、端口等信息**，以实现跨域请求
+- 目标服务器接收到代理服务器转发的请求，并返回响应结果
+- 代理服务器将响应结果返回给前端应用程序
 
