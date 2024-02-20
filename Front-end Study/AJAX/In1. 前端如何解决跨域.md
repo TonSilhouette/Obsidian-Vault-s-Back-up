@@ -68,7 +68,7 @@ module.exports = {
 			errors: true
 		},
 		proxy: {
-			'/api': {
+			'/api': { //'/api'是一个基地址标识，设置后请求将发送到本地域名的/api中
 				target: 'http://localhost:3000',
 				changeOrigin: true
 			}

@@ -58,8 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05e699eca9241a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
               }
             }
           },
@@ -200,11 +213,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "61902168fa5aaeac",
+  "active": "05e699eca9241a10",
   "lastOpenFiles": [
     "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "非笔记主体文件/Obsidian技巧.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Front-end Study/TS/In2. 类型注解.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
@@ -229,7 +243,6 @@
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
     "Conlusion of projects/Preparation of projects 🟤.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "非笔记主体文件/图片/小程序生命周期.png",
     "非笔记主体文件",
     "未命名文件夹",
