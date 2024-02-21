@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
+                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md"
               }
             }
           },
@@ -213,10 +213,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "05e699eca9241a10",
+  "active": "f5cdc9e4ef89ec47",
   "lastOpenFiles": [
-    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "非笔记主体文件/Obsidian技巧.md",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
