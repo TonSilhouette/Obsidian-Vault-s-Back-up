@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md"
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
               }
             }
           },
@@ -177,10 +177,13 @@
   },
   "active": "ba914f37d849365d",
   "lastOpenFiles": [
+    "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
+    "Front-end Study/TS/In1. TS介绍与基本使用.md",
+    "Front-end Study/TS/In3. TS在Vue3中的应用.md",
+    "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "非笔记主体文件/Obsidian技巧.md",
-    "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
     "Front-end Study/CSS/In5. 图片懒加载和预加载.md",
     "Front-end Study/CSS/In2. 清除浮动.md",
     "Front-end Study/CSS/In3. rem, px, em区别.md",
@@ -196,13 +199,10 @@
     "Front-end Study/Vue2/Dev5. el-table配合字典实现用索引转换值.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Front-end Study/TS/In2. 类型注解.md",
-    "Front-end Study/TS/In1. TS介绍与基本使用.md",
-    "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/Vue3/In6. Pinia.md",
     "Front-end Study/Vue3/In5. 预留.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
-    "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
