@@ -22,57 +22,19 @@
             }
           },
           {
-            "id": "72b2425764fb1938",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c534bb415d58234a",
+            "id": "ba914f37d849365d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "非笔记主体文件/Obsidian技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5cdc9e4ef89ec47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/CSS/In2. 清除浮动.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05e699eca9241a10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/CSS/In2. 清除浮动.md",
+                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/CSS/In2. 清除浮动.md",
+                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/CSS/In2. 清除浮动.md"
+                "file": "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md"
               }
             }
           },
@@ -213,12 +175,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f5cdc9e4ef89ec47",
+  "active": "ba914f37d849365d",
   "lastOpenFiles": [
-    "Front-end Study/CSS/In1. 盒子模型.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
+    "非笔记主体文件/Obsidian技巧.md",
+    "Front-end Study/CSS/In6. CSS设置文本超出隐藏，并显示省略号.md",
+    "Front-end Study/CSS/In5. 图片懒加载和预加载.md",
     "Front-end Study/CSS/In2. 清除浮动.md",
     "Front-end Study/CSS/In3. rem, px, em区别.md",
-    "Front-end Study/CSS/In5. 图片懒加载和预加载.md",
+    "Front-end Study/CSS/In1. 盒子模型.md",
     "Front-end Study/CSS/In4. 伪类与伪元素.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
@@ -237,10 +203,6 @@
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
-    "Front-end Study/Mini Program/In8. 框架接口.md",
-    "Front-end Study/Mini Program/In9. 配置文件json.md",
-    "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
-    "Front-end Study/Mini Program/In6. 分包加载.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
