@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "ba914f37d849365d",
+            "id": "1ae35e2cac97691d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md"
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
               }
             }
           },
@@ -175,9 +175,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ba914f37d849365d",
+  "active": "1ae35e2cac97691d",
   "lastOpenFiles": [
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
+    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/TS/In1. TS介绍与基本使用.md",
     "Front-end Study/TS/In3. TS在Vue3中的应用.md",
@@ -189,9 +192,7 @@
     "Front-end Study/CSS/In3. rem, px, em区别.md",
     "Front-end Study/CSS/In1. 盒子模型.md",
     "Front-end Study/CSS/In4. 伪类与伪元素.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
-    "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
     "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
     "Front-end Study/Vue2/In3. SPA首屏加载慢怎么解决？.md",
@@ -202,7 +203,6 @@
     "Front-end Study/Vue3/In6. Pinia.md",
     "Front-end Study/Vue3/In5. 预留.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
-    "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
