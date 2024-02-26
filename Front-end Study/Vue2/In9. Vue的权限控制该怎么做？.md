@@ -89,4 +89,17 @@ router.beforeEach(async(to, from, next) => {
 
 ### 2. 菜单权限控制
 
+登录时，将权限数组保存在vuex中，
 
+```js file:router/index.js
+const createRouter = () => new Router({
+  // mode: 'history', // require service support
+  scrollBehavior: () => ({ y: 0 }),
+  routes: [...constantRoutes]
+})
+
+// 加到路由里面 -- 这就是给路由加路由规则
+router.addRoutes(routes)
+// 更新路由表 -- 更新后菜单才有
+router.options.routes = [...constantRoutes, ...routes]
+```
