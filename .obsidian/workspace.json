@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
+                "file": "Front-end Study/JS/In1. 数组方法.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "1ae35e2cac97691d",
   "lastOpenFiles": [
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/JS/splice & slice.md",
+    "Front-end Study/JS/In1. 数组方法.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
     "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
@@ -201,8 +203,6 @@
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Front-end Study/TS/In2. 类型注解.md",
     "Front-end Study/Vue3/In6. Pinia.md",
-    "Front-end Study/Vue3/In5. 预留.md",
-    "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
