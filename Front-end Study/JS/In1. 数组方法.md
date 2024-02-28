@@ -76,4 +76,8 @@ ul.innerHTML = arr.map(function (v, i) {    
 }).join('')
 ```
 
-## 三、遍历数组
+## 四、在数组中搜索
+
+### 1. 
+
+
