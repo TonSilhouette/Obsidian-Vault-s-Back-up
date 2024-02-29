@@ -103,3 +103,5 @@ router.addRoutes(routes)
 // 更新路由表 -- 更新后菜单才有
 router.options.routes = [...constantRoutes, ...routes]
 ```
+
+### 3. 按钮权限控制

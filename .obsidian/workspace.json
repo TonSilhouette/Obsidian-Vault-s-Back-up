@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bee3c5e297b3da23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,13 +185,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1ae35e2cac97691d",
+  "active": "bee3c5e297b3da23",
   "lastOpenFiles": [
-    "非笔记主体文件/Obsidian技巧.md",
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
-    "Front-end Study/JS/In1. 数组方法.md",
-    "Front-end Study/JS/splice & slice.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/JS/In1. 数组方法.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "非笔记主体文件/Obsidian技巧.md",
+    "Front-end Study/JS/splice & slice.md",
     "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
     "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
