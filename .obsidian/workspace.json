@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bee3c5e297b3da23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +175,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bee3c5e297b3da23",
+  "active": "1ae35e2cac97691d",
   "lastOpenFiles": [
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/JS/In1. 数组方法.md",
