@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/JS/In1. 数组方法.md",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/JS/In1. 数组方法.md",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/JS/In1. 数组方法.md",
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/JS/In1. 数组方法.md"
+                "file": "Front-end Study/Mini Program/In2. 模板语法.md"
               }
             }
           },
@@ -177,15 +177,15 @@
   },
   "active": "1ae35e2cac97691d",
   "lastOpenFiles": [
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
+    "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/JS/In1. 数组方法.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
     "Front-end Study/Mini Program/In3. 生命周期.md",
     "Front-end Study/Mini Program/In2. 模板语法.md",
-    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
-    "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
     "Front-end Study/Mini Program/In10. 小程序缩小体积方法.md",
     "Front-end Study/Mini Program/In9. 配置文件json.md",
