@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
+                "file": "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md"
               }
             }
           },
@@ -174,14 +175,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "61902168fa5aaeac",
+  "active": "1ae35e2cac97691d",
   "lastOpenFiles": [
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
     "Front-end Study/JS/In1. 数组方法.md",
     "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
     "Front-end Study/Mini Program/In3. 生命周期.md",
