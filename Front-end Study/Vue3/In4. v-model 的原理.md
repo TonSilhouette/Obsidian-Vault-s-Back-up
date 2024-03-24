@@ -1,8 +1,10 @@
-原生表单组件：和Vue2原理一样
+**原生表单组件**：和Vue2原理一样
+
 1. `v-bind:value` / `:value`给表单元素绑定响应式数据
 2. 通过绑定input事件`v-on:input` / `@input`，触发事件获取$event.target.value，然后赋值给当前变量
 
-自定义组件：
+**自定义组件**：
+
 ```js title:"子组件-script"
 const props = defineProps({
   modelValue: Number,

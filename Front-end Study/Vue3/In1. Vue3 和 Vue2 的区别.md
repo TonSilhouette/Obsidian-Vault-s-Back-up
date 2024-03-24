@@ -30,7 +30,6 @@ new Vue({
 ```
 
 
-
 **vue3**：vue3中需要使用**结构**的形式进行操作，引入的是**工厂函数**
 - 按需导入`createApp`
 - 给`createApp`函数传入`App`，再`.mount('#app')`进行挂载
@@ -49,7 +48,17 @@ app.use(router)
 app.mount('#app')
 ```
 
-## 二、选项式API → 组合式API
+## 二、响应式原理api不同
+- Vue2响应式原理采用的是**defineProperty**，而vue3选用的是**proxy**。
+- 这两者前者是**修改对象属性的权限标签**，后者是**代理整个对象**。性能上proxy会更加优秀。
+
+## 三、diff算法/渲染算法优化
+- Vue3优化了diff算法。不再像vue2那样比对所有dom，而采用了block tree的做法。
+- 此外重新渲染的算法里也做了改进，利用了闭包来进行缓存。这使得vue3的速度比vue2快了6倍。
+## 四、选项式API → 组合式API
+
+- 旧的选项型API在代码里分割了不同的**属性**（properties）：data，computed，methods，等等。
+- 新的合成型API能让我们用**方法/函数**（function）来分割。定义数据和声明函数可以按照功能写在一起，无需上下翻找了。
 
 **vue2**：选项式API （Options API）
 - 在vue2中在`data(){}`中定义数据变量 ，在`methods:{}`中定义方法
@@ -98,23 +107,23 @@ export default {
 </script>
 ```
 
-## 三、生命周期钩子函数不同
+## 五、生命周期钩子函数不同
 
 **Vue2 & Vue3**
 
-| **Options API** | **Composition API**     |
-|:--------------- |:----------------------- |
+| **Options API** | **Composition API** |
+| :-------------- | :------------------ |
 | beforeCreate    | 不需要，直接把代码写在setup()中 |
 | created         | 不需要，直接把代码写在setup()中 |
-| beforeMount     | onBeforeMount           |
-| mounted         | onMounted               |
-| beforeUpdate    | onBeforeUpdate          |
-| updated         | onUpdated               |
-| beforeDestroy   | onBeforeUnmount💥       |
-| destroyed       | onUnmounted💥           |
-| + activated     | onActivated             |
-| + deactivated   | onDeactivated           |
-| + errorCaptured | onErrorCaptured         |
+| beforeMount     | onBeforeMount       |
+| mounted         | onMounted           |
+| beforeUpdate    | onBeforeUpdate      |
+| updated         | onUpdated           |
+| beforeDestroy   | onBeforeUnmount💥   |
+| destroyed       | onUnmounted💥       |
+| + activated     | onActivated         |
+| + deactivated   | onDeactivated       |
+| + errorCaptured | onErrorCaptured     |
 
 - 取消了创建阶段的两个钩子，因为setup()函数触发时机为刚创建时，可以替代
 - 销毁阶段钩子改名：destroy → unmount
@@ -129,10 +138,10 @@ export default {
 | onRenderTriggered| 注册一个调试钩子，当响应式依赖的变更触发了组件渲染时调用;</br>这个钩子仅在开发模式下可用，且在服务器端渲染期间不会被调用 |
 | onServerPrefetch | 注册一个异步函数，在组件实例在服务器上被渲染之前调用                   |
 
-## 四、组件通信方式不同
+## 六、组件通信方式不同
 
 [[In2. Vue3组件通信方式]]
 
-## 五、双向绑定原理不同
+## 七、双向绑定原理不同
 
 [[In4. v-model 的原理]]
