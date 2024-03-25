@@ -10,7 +10,7 @@
 - 页面加载触发
 	1. 路由权限
 	2. 菜单权限
-	3. 接口权限
+	3. 接口权限（后端去做）
 - 页面上的按钮点击触发
 	4. 按钮权限
 
@@ -102,8 +102,47 @@ const createRouter = () => new Router({
 
 // 加到路由里面 -- 这就是给路由加路由规则
 router.addRoutes(routes)
-// 更新路由表 -- 更新后菜单才有
+// 更新路由表 -- 更新后菜单栏才会刷新动态路由的菜单
 router.options.routes = [...constantRoutes, ...routes]
 ```
 
-### 3. 按钮权限控制
+### 4. 按钮权限控制
+
+1. 使用`v-if`调用仓库中数据，包含权限则显示，不包含则不显示
+2. 调用仓库查找权限可以封装成函数，更简洁
+3. 很多页面需要进行按钮权限判断，所以使用`mixin`做全局混入，将该函数混入所有组件的`methods`中
+
+- 原写法
+```html
+<el-button
+	v-if="$store.getters.userInfo.roles.points.includes('EMP_EXPORT')"
+></el-button>
+```
+
+- 封装函数，放在methods中
+```js
+methods: {
+	checkPoint(key) {
+		return this.$store.getters.userInfo.roles.points.includes(key)
+	}
+}
+```
+
+- 新写法-简洁
+```html
+<el-button v-if="checkPoint('POINT_TRUE')">转正</el-button>
+```
+
+- 在`main.js`全局混入该函数
+```js
+import Vue from 'vue'
+const obj = {
+  methods: {
+    checkPoint(key) {
+      return this.$store.getters.userInfo.roles.points.includes(key)
+    }
+  }
+}
+Vue.mixin(obj)
+```
+

@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
+                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
               }
             }
           },
@@ -175,14 +174,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3412af8e044f6944",
+  "active": "61902168fa5aaeac",
   "lastOpenFiles": [
+    "非笔记主体文件/图片/扁平数组示例.png",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Terms.md",
     "Front-end Study/JS/In2. 字符串方法.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/JS/In1. 数组方法.md",
     "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
@@ -202,7 +202,6 @@
     "Front-end Study/Mini Program/In4. 内置 api.md",
     "Front-end Study/Mini Program/In3. 生命周期.md",
     "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
-    "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
