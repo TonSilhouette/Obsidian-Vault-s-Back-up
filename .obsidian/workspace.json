@@ -15,22 +15,10 @@
               "type": "markdown",
               "state": {
                 "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "1dce4e891ff986e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           },
           {
@@ -39,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/JS/In1. 数组方法.md",
+                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md"
+                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md"
               }
             }
           },
@@ -199,16 +187,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1dce4e891ff986e8",
+  "active": "cf3ee558f152573b",
   "lastOpenFiles": [
-    "Front-end Study/JS/In2. 字符串方法.md",
     "Front-end Study/JS/In1. 数组方法.md",
+    "Front-end Study/JS/In2. 字符串方法.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+    "Front-end Study/Mini Program/In2. 模板语法.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Terms.md",
     "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
-    "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
     "Conlusion of projects/4. Telemedicine H5 🟢.md",
     "Front-end Study/TS/In2. 类型注解.md",
@@ -219,7 +208,6 @@
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
-    "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
