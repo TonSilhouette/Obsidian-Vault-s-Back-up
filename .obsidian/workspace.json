@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "557c34e4bab3b9e8",
+        "id": "e7663c8b13509f65",
         "type": "tabs",
         "children": [
           {
-            "id": "61902168fa5aaeac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3412af8e044f6944",
+            "id": "0b84ff0439f8d3d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md",
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/1. HRM Backend PC 🟢.md"
+                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md"
               }
             }
           },
@@ -151,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,11 +159,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "61902168fa5aaeac",
+  "active": "0b84ff0439f8d3d6",
   "lastOpenFiles": [
-    "非笔记主体文件/图片/扁平数组示例.png",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/Vue2/Dev5. el-table配合字典实现用索引转换值.md",
+    "非笔记主体文件/图片/扁平数组示例.png",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
     "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Terms.md",
@@ -201,7 +188,6 @@
     "Front-end Study/Mini Program/In5. 路由跳转.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
     "Front-end Study/Mini Program/In3. 生命周期.md",
-    "Front-end Study/Mini Program/Dev3. 微信头像与昵称.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
