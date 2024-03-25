@@ -13,7 +13,7 @@ import App from './App'
 import router from './router' 
 import store from './store'
 
-// 方法一：new Vue
+// 方法一：el属性挂载
 new Vue({
 	el: '#app',
 	router, 
@@ -21,7 +21,7 @@ new Vue({
 	render: h => h(App)
 })
 
-// 方法二：$mount
+// 方法二：$mount挂载
 new Vue({
 	router, 
 	store,
@@ -48,52 +48,17 @@ app.use(router)
 app.mount('#app')
 ```
 
-#构造函数与工厂函数
-#### 工厂函数：
-概念：用来生产 **相同属性** 的对象的函数，通过它我们可以构造出许多 **属性相同**，但拥有 **不同属性值** 的对象
+#构造函数与工厂函数  👉🏻 [[Terms#构造函数与工厂函数 | 构造函数与工厂函数]]
 
-代码：
-```js
-    function factory(name, age) {
-        const obj = {}
-        obj.name = name
-        obj.age = age
-        return obj
-    }
-    var obj = factory('carl','28')
-```
-
-生产过程：
-1. 接受自定义属性值
-2. 新建一个对象
-3. 给新建的对象赋值自定义属性
-4. 返回新创建的对象
-
-#### 构造函数：
-概念：用来生产新对象的函数
-
-代码：
-```js
-    function Constructor(name,age){
-        this.name = name
-        this.age = age
-    }
-    
-    var obj = new Constructor('carl','28')
-```
-
-构造过程：
-1. 接受自定义属性值
-2. 将自定义属性赋值给 **this**
-
-#### 区别：
-1. 工厂函数的使用不借助 **new**，而构造函数需要
-2. 工厂函数不使用 **this**
-3. 工厂函数需要 **明确** 返回新对象，而构造函数不需要
 
 ## 二、响应式原理api不同
-- Vue2响应式原理采用的是**defineProperty**，而vue3选用的是**proxy**。
+- Vue2响应式原理采用的是**defineProperty**；
+- 而vue3通过**proxy**代理目标对象；
 - 这两者前者是**修改对象属性的权限标签**，后者是**代理整个对象**。性能上proxy会更加优秀。
+
+例如，在使用Object.defineProperty()时，要为每一个属性都添加getter和setter，但是在使用Proxy时，只需要添加一个代理就可以监听所有的属性。
+
+另外，Proxy还有一些额外的特性，例如可以拦截对象的操作，从而实现一些高级的功能。
 
 ## 三、diff算法/渲染算法优化
 - Vue3优化了diff算法。不再像vue2那样比对所有dom，而采用了block tree的做法。
