@@ -32,16 +32,16 @@ wx.request({
 - 显示消息提示框
 - **以 [Promise 风格](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/api.html#%E5%BC%82%E6%AD%A5-API-%E8%BF%94%E5%9B%9E-Promise) 调用**：支持
 
-|属性|类型|默认值|必填|说明|
-|---|---|---|---|---|
-|title|string||是|提示的内容|
-|icon|string|success|否|图标|
-|image|string||否|自定义图标的本地路径，image 的优先级高于 icon|
-|duration|number|1500|否|提示的延迟时间|
-|mask|boolean|false|否|是否显示透明蒙层，防止触摸穿透|
-|success|function||否|接口调用成功的回调函数）|
-|fail|function||否|接口调用失败的回调函数|
-|complete|function||否|接口调用结束的回调函数|
+| 属性       | 类型       | 默认值     | 必填  | 说明                           |
+| -------- | -------- | ------- | --- | ---------------------------- |
+| title    | string   |         | 是   | 提示的内容                        |
+| icon     | string   | success | 否   | 图标                           |
+| image    | string   |         | 否   | 自定义图标的本地路径，image 的优先级高于 icon |
+| duration | number   | 1500    | 否   | 提示的延迟时间                      |
+| mask     | boolean  | false   | 否   | 是否显示透明蒙层，防止触摸穿透              |
+| success  | function |         | 否   | 接口调用成功的回调函数                  |
+| fail     | function |         | 否   | 接口调用失败的回调函数                  |
+| complete | function |         | 否   | 接口调用结束的回调函数                  |
 
 其中`icon`属性的合法值：
 
@@ -60,7 +60,7 @@ wx.showToast({
 })
 ```
 
-## 加载 ：`wx.showLoading`&``wx.hideLoading`
+## 加载 ：`wx.showLoading`&`wx.hideLoading`
 
 - 显示加载提示框
 - 需主动调用 `wx.hideLoading` 才能关闭提示框
@@ -88,7 +88,7 @@ wx.showToast({
 ## 本地储存（同步） `wx.xxStorageSync`
 
 - `wx.setStorageSync` 在本地存入一个数据
-	- 🟢该数据可以为复杂数据类型，无需格式转化
+	- 该数据可以为复杂数据类型，无需格式转化
 - `wx.getStorageSync` 读取本地的一个数据
 - `wx.removeStorageSync` 删除本地存储的一个数据
 - `wx.clearStorageSync` 清空本地存储的数据

@@ -4,13 +4,14 @@
 **数据：**
 - data写在`index.js`中的`Page({})`中
 - 在`js`中引用data需要使用`this.data.数据名`
-- 修改数据后想要渲染在页面，需要在`this.setData({})`内赋值，且是键值对的形式，而不是等号赋值
+- 修改数据后想要渲染在页面，需要在`this.setData({})`内赋值，且是**键值对**的形式，而不是等号赋值
 	- 原因：逻辑层与视图层分离，需要手动把逻辑层面的值给到视图层
 
 - setData触发视图层渲染的大致流程是：
 	- 在逻辑层调用setData会触发虚拟DOM树的遍历更新
 	- 将data中的数据从逻辑层传到视图层
 	- 视图层真实DOM的更新及页面渲染
+	-  💥注意：数据从逻辑层发送到视图层是异步的，即渲染过程异步；`setData`在设置data数据中是同步的。就是说**改变值是同步的，改变值之后渲染页面是异步的**。
 
 **事件：**
 - 与data同级
@@ -136,7 +137,7 @@ fruitList: ['apple','banana']
   // 使用event/ev/e来接收参数
   // 接收到不是一个传值, 而是整个事件对象
   delFruit(event) {
-    // 这里是两种传参方式的接受办法
+    // 这里是两种传参方式的接收办法
     console.log('mark 语法', event.mark.index);
     console.log('自定义属性data-xxx', event.target.dataset.index);
     // 删除数据

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
-                "mode": "source",
+                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50390243530273
+    "width": 353.50390243530273
   },
   "right": {
     "id": "ce1ab56c586611df",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conlusion of projects/2. Enjoy Plus MP 🟢.md"
+                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md"
               }
             }
           },
@@ -161,8 +161,14 @@
   },
   "active": "0b84ff0439f8d3d6",
   "lastOpenFiles": [
-    "Conlusion of projects/1. HRM Backend PC 🟢.md",
+    "Front-end Study/Mini Program/In6. 分包加载.md",
+    "Front-end Study/Mini Program/In5. 路由跳转.md",
+    "Front-end Study/Mini Program/In4. 内置 api.md",
+    "Front-end Study/Mini Program/In3. 生命周期.md",
+    "Front-end Study/Mini Program/In2. 模板语法.md",
+    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
     "Conlusion of projects/2. Enjoy Plus MP 🟢.md",
+    "Conlusion of projects/1. HRM Backend PC 🟢.md",
     "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/Dev5. el-table配合字典实现用索引转换值.md",
     "非笔记主体文件/图片/扁平数组示例.png",
@@ -171,7 +177,6 @@
     "Front-end Study/Terms.md",
     "Front-end Study/JS/In2. 字符串方法.md",
     "Front-end Study/JS/In1. 数组方法.md",
-    "Front-end Study/Mini Program/In2. 模板语法.md",
     "Front-end Study/AJAX/In1. 前端如何解决跨域.md",
     "Front-end Study/Vue2/Dev1. 配置环境变量.md",
     "Conlusion of projects/3. Rabbit E-commerce  MP 🟢.md",
@@ -183,11 +188,6 @@
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
     "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
-    "Front-end Study/Mini Program/In1. 开发准备与上线.md",
-    "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
-    "Front-end Study/Mini Program/In5. 路由跳转.md",
-    "Front-end Study/Mini Program/In4. 内置 api.md",
-    "Front-end Study/Mini Program/In3. 生命周期.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
