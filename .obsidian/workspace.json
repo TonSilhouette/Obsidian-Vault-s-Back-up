@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Mini Program/In7. 自定义组件与传参.md"
+                "file": "Front-end Study/JS/In1. 数组方法.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "0b84ff0439f8d3d6",
   "lastOpenFiles": [
+    "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
     "Front-end Study/Mini Program/In6. 分包加载.md",
     "Front-end Study/Mini Program/In5. 路由跳转.md",
     "Front-end Study/Mini Program/In4. 内置 api.md",
@@ -187,7 +188,6 @@
     "Front-end Study/Vue3/In6. Pinia.md",
     "Front-end Study/Vue3/In4. v-model 的原理.md",
     "Front-end Study/Vue3/In3. ref（模板引用）.md",
-    "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
     "Front-end Study/AJAX",
     "未命名.canvas",
     "非笔记主体文件/图片/小程序生命周期.png",
