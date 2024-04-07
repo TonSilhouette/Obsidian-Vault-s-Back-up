@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+                "file": "Front-end Study/Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ff090fadf97ec1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end Study/Git/http和https.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+                "file": "Front-end Study/Git/http和https.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+                "file": "Front-end Study/Git/http和https.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md"
+                "file": "Front-end Study/Git/http和https.md"
               }
             }
           },
@@ -159,10 +172,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4bf936226759320",
+  "active": "6ff090fadf97ec1a",
   "lastOpenFiles": [
-    "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
+    "Front-end Study/Terms.md",
+    "Front-end Study/Git/http和https.md",
+    "Git.md",
+    "Front-end Study/Git",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
+    "Front-end Study/Vue3/In2. Vue3组件通信方式.md",
     "Front-end Study/Vue3/Dev2. Vue3 + H5 具体功能.md",
     "Front-end Study/Vue3/Dev1. Vue3 + uniapp 具体功能.md",
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
@@ -184,9 +201,6 @@
     "Front-end Study/Mini Program/In10. 小程序缩小体积方法.md",
     "Front-end Study/Mini Program/In9. 配置文件json.md",
     "Front-end Study/Mini Program/In8. 框架接口.md",
-    "Front-end Study/Mini Program/In6. 分包加载.md",
-    "Front-end Study/Mini Program/In5. 路由跳转.md",
-    "Front-end Study/Mini Program/In4. 内置 api.md",
     "非笔记主体文件/图片/扁平数组示例.png",
     "Front-end Study/AJAX",
     "未命名.canvas",
@@ -199,7 +213,6 @@
     "非笔记主体文件/基础阶段笔记/Nodejs.xmind",
     "非笔记主体文件/基础阶段笔记/JS进阶.xmind",
     "非笔记主体文件/基础阶段笔记/JS基础.xmind",
-    "非笔记主体文件/基础阶段笔记/HTML.xmind",
     "非笔记主体文件/图片/Vue3生命周期.png",
     "图片/小程序头像和昵称编辑_副本.jpg",
     "非笔记主体文件/图片/小程序头像和昵称编辑.jpg",
