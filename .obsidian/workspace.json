@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Git/http和https.md",
+                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Git/http和https.md",
+                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Git/http和https.md",
+                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Git/http和https.md"
+                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "6ff090fadf97ec1a",
   "lastOpenFiles": [
-    "Front-end Study/Terms.md",
     "Front-end Study/Git/http和https.md",
+    "Front-end Study/Terms.md",
     "Git.md",
     "Front-end Study/Git",
     "Front-end Study/Vue3/In1. Vue3 和 Vue2 的区别.md",
