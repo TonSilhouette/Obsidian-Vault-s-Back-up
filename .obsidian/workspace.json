@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "389c61591627d57a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end Study/Vue2/In10. computed和watch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In10. computed和watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
+                "file": "Front-end Study/Vue2/In10. computed和watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md"
+                "file": "Front-end Study/Vue2/In10. computed和watch.md"
               }
             }
           },
@@ -172,8 +184,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6ff090fadf97ec1a",
+  "active": "389c61591627d57a",
   "lastOpenFiles": [
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
+    "Front-end Study/Vue2/In10. computed和watch.md",
+    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/Git/http和https.md",
     "Front-end Study/Terms.md",
     "Git.md",
@@ -185,9 +200,7 @@
     "Front-end Study/Mini Program/Dev2. 双token的登录超时处理--无感刷新.md",
     "Front-end Study/Mini Program/In7. 自定义组件与传参.md",
     "Front-end Study/Mini Program/Dev1. 封装组件进行登录的权限校验.md",
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In8. 为什么Vue中给对象添加新属性界面不刷新?.md",
-    "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/Vue2/In6. 为什么组件的data属性是一个函数而不是一个对象？.md",
     "Front-end Study/Vue2/In5. Vue组件间通信方式都有哪些?.md",
     "Front-end Study/Vue2/In4. Vue中的v-show和v-if怎么理解？.md",
@@ -200,7 +213,6 @@
     "Front-end Study/TS/Dev1. TS在Vue3中的具体使用.md",
     "Front-end Study/Mini Program/In10. 小程序缩小体积方法.md",
     "Front-end Study/Mini Program/In9. 配置文件json.md",
-    "Front-end Study/Mini Program/In8. 框架接口.md",
     "非笔记主体文件/图片/扁平数组示例.png",
     "Front-end Study/AJAX",
     "未命名.canvas",
