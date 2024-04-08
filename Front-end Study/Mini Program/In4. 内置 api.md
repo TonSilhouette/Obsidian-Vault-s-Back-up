@@ -4,10 +4,10 @@
 - 小程序无浏览器环境，无XHR（XMLHttpRequest）对象，故无法使用`ajax`
 - `wx.request`接受一个 `Object` 类型的参数，这个参数支持按需指定以下字段来接收接口调用结果：
 
-| 参数名   | 说明                                                          |
-| -------- | ------------------------------------------------------------- |
-| success  | 接口调用成功的回调函数，类似try                               |
-| fail     | 接口调用失败的回调函数，类似catch                             |
+| 参数名      | 说明                                 |
+| -------- | ---------------------------------- |
+| success  | 接口调用成功的回调函数，类似try                  |
+| fail     | 接口调用失败的回调函数，类似catch                |
 | complete | 接口调用结束的回调函数（调用成功、失败都会执行），类似finally |
 
 - 基础库 [2.10.2](https://developers.weixin.qq.com/miniprogram/dev/framework/compatibility.html) 版本起，异步 API 支持 callback & promise 两种调用方式。当接口参数 Object 对象中不包含 success/fail/complete 时将默认返回 promise，否则仍按回调方式执行，无返回值，`wx.request`的 promisify 需要开发者自行封装
