@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end Study/Vue2/In10. computed和watch.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end Study/Vue2/In10. computed和watch.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end Study/Vue2/In10. computed和watch.md",
+                "file": "Front-end Study/JS/In1. 数组方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end Study/Vue2/In10. computed和watch.md"
+                "file": "Front-end Study/JS/In1. 数组方法.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "389c61591627d57a",
   "lastOpenFiles": [
-    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In10. computed和watch.md",
+    "Front-end Study/Vue2/In9. Vue的权限控制该怎么做？.md",
     "Front-end Study/Vue2/In7. 说说你对Vue生命周期的理解?.md",
     "Front-end Study/Git/http和https.md",
     "Front-end Study/Terms.md",
